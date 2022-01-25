@@ -1,0 +1,19 @@
+{
+  "name": "mern_tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "all": "npm --prefix ./client run build && npm --prefix ./server start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielgarcia-09/MERN_TASKS.git"
+  },
+  "author": "Daniel Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielgarcia-09/MERN_TASKS/issues"
+  },
+  "homepage": "https://github.com/danielgarcia-09/MERN_TASKS#readme"
+}
